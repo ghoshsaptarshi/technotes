@@ -8,7 +8,6 @@ draft: true
 date: 2025-06-30
 cssclasses:
 ---
-
 > bash is the GNU Project's shell. Bash stands for **B**ourne **A**gain **SH**ell. It is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard. It offers functional improvements over sh for both programming and interactive use. In addition, most sh scripts can be run by Bash without modification.
 
 The improvements offered by bash include:
@@ -21,9 +20,10 @@ The improvements offered by bash include:
 
 [Official Homepage](https://www.gnu.org/software/bash/)
 
-Since, bash is part of GNU's ecosystem, it is used in-conjunction with the tools/utilities of [[GNU Core Utilities]] package.
+Since, bash is part of GNU's ecosystem, it is used in-conjunction with the tools/utilities of [[linux/coreutils/index]] package.
 
-**Anything that we can run normally on the command line can be put into a [[Glossary_S#Script|script]] and it will do exactly the same thing. Similarly, anything we put into a script can also be run normally on the command line and it will do exactly the same thing. **
+>[!info]
+>Anything that we can run normally on the command line can be put into a [[Glossary_S#Script|script]] and it will do exactly the same thing. Similarly, anything we put into a script can also be run normally on the command line and it will do exactly the same thing.
 
 #### Sample Bash Script
 ```bash
@@ -32,8 +32,7 @@ Since, bash is part of GNU's ecosystem, it is used in-conjunction with the tools
 echo "Hello World"
 echo $PATH
 ```
-
-#### Output of Sample Script
+##### Output
 ```bash
 user@host$ chmod +x script.sh
 user@host$ ./script.sh
@@ -41,15 +40,16 @@ Hello World
 user@host$
 ```
 
-## Parts of Bash Script
+## Parts
 A typical bash script starts with a shebang symbol along with the interpreter module path like below -
 ```bash
 #!/bin/bash
 ```
 
-![[Glossary_S#Shebang Symbol]]
+![[Glossary - S#Shebang]]
 
-> **The shebang must be on the very first line of the file (line 2 won't do, even if the first line is blank). There must also be no spaces before the # or between the ! and the path to the interpreter**
+> [!warning]
+The shebang must be on the very first line of the file before any of the commands is written. There must also be no spaces before the # or between the ! and the path to the interpreter
 
 After the shebang line, rest of the file contains the executable statements for the shell like below -
 
@@ -58,7 +58,7 @@ echo "Hello World"
 echo $PATH
 ```
 
-These statements can be comprised of commands from [[GNU Core Utilities]] package, installed programs or [[Functions#Functions|Bash Functions]]. Sometimes, installed can be comments also like -
+These statements can be comprised of commands from [[linux/coreutils/index]] package, installed programs or [[Functions#Functions|Bash Functions]]. Sometimes, installed can be comments also like -
 
 ```bash
 # Hello World Bash script

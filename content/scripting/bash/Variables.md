@@ -8,7 +8,7 @@ draft: true
 date: 
 cssclasses:
 ---
-Like all other scripting languages, bash allows the use of [[V#Variable|variables]] in scripts. Variables may have their value set in a few different ways. The most common are to set the value directly and for its value to be set as the result of processing by a command or program. To read the variable we place its name, preceded by a $ sign, anywhere in the script we would like.
+Like all other scripting languages, bash allows the use of [[Glossary - V#Variable|variables]] in scripts. Variables may have their value set in a few different ways. The most common are to set the value directly and for its value to be set as the result of processing by a command or program. To read the variable we place its name, preceded by a $ sign, anywhere in the script we would like.
 Before Bash interprets (or runs) every line of our script it first checks to see if any variable names are present. For every variable it has identified, it replaces the variable name with its value. Then it runs that line of code and begins the process again on the next line.
 
 ## Syntax
@@ -61,7 +61,8 @@ User defined variables can be set as `variable=value` in a bash script.
 	- There's no `$` sign from the beginning of the variable name when setting it
 - Variable names may be uppercase or lowercase or a mixture of both.
 
-> **Bash is case sensitive**
+>[!important]
+**Bash is case sensitive**
 
 - Under normal circumstances Bash uses a space to determine separate items.
 - When we want variables to store more complex values, we need to make use of quotes.

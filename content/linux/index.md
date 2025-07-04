@@ -9,5 +9,3 @@ date:
 cssclasses:
 ---
 
-# 2025-07-01
-

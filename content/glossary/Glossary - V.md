@@ -1,0 +1,11 @@
+---
+title: Glossary - V
+description: 
+permalink: 
+aliases: 
+tags: 
+draft: false
+date: 2025-07-04
+cssclasses:
+---
+## variables

@@ -1,10 +1,10 @@
 ---
-title: Glossary - V
+title: Glossary - A
 description: 
 permalink: 
 aliases: 
 tags: 
-draft: true
-date: 
+draft: false
+date: 2025-07-04
 cssclasses:
 ---
