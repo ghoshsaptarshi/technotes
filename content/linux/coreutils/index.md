@@ -5,6 +5,7 @@ permalink:
 aliases: 
 tags: 
 draft: true
-date: 
+date: 2025-07-04
 cssclasses:
 ---
+[GNU CoreUtils](https://www.gnu.org/software/coreutils/)

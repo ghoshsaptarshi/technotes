@@ -1,10 +1,10 @@
 ---
-title: Amazon Web Services
+title: AWK
 description: 
 permalink: 
 aliases: 
 tags: 
-draft: false
-date: 2025-07-07
+draft: true
+date: 
 cssclasses:
 ---

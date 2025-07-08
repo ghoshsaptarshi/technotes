@@ -8,7 +8,7 @@ draft: false
 date: 
 cssclasses:
 ---
-Mainframe offers server utilities
+Mainframe offers several utilities
 ## Utility List
 
 [[IDCAMS]]

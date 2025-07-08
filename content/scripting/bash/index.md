@@ -85,3 +85,22 @@ In the realm of linux (and computers in general) we have the concept of programs
 There could be several processes representing the same program running in memory at the same time. For example I could have two terminals open and be running the command [[cp]] in both of them. In this case there would be two cp processes currently existing on the system. Once they are finished running the system then destroys them and there are no longer any processes representing the program cp.
 
 At the terminal we have a bash process running in order to give us the Bash shell. If we start a script, it doesn't actually run in that process but instead starts a new process to run inside. This impacts the variables.
+
+
+## [[00 - Introduction to Bash|Introduction to Bash]]
+
+## [[01 - Variables in Bash|Variables in Bash]]
+
+## [[02 - Input|Input]]
+
+## [[03 - Arithmetic|Arithmetic]]
+
+## [[04 - Decision Control|Decision Control]]
+
+## [[05 - Loops|Loops]]
+
+## [[06 - Functions|Functions]]
+
+## [[07 - User Interface|User Interface]]
+
+## [[08 - Additional Tips|Some additional Tips]]

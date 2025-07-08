@@ -1,10 +1,13 @@
 ---
-title: Amazon Web Services
+title: dict
 description: 
 permalink: 
 aliases: 
 tags: 
-draft: false
-date: 2025-07-07
+draft: true
+date: 
 cssclasses:
 ---
+
+# dict
+

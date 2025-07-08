@@ -109,7 +109,7 @@ See [[00 - Introduction to Bash#Working of Bash Script|working or Bash script]]
 
 Code for ```script1.sh``` 
 
-```bash
+```sh
 #!/bin/bash
 # demonstrate variable scope 1.
 var1=blah
@@ -127,7 +127,7 @@ echo $0 :: var1 : $var1, var2 : $var2
 
 Code for ``script2.sh``
 
-```bash
+```sh
 #!/bin/bash
 # demonstrate variable scope 2
 # Let's verify their current value
