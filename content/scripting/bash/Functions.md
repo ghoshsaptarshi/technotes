@@ -8,6 +8,3 @@ draft: true
 date: 
 cssclasses:
 ---
-
-# Functions
-

@@ -3,7 +3,8 @@ title: Extended Regular Expression
 description: 
 permalink: 
 aliases: 
-tags: 
+tags:
+  - RegEx
 draft: true
 date: 
 cssclasses:

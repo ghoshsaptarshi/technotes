@@ -3,11 +3,11 @@ title: Basic Regular Expression
 description: 
 permalink: 
 aliases: 
-tags: 
+tags:
+  - RegEx
 draft: true
 date: 
 cssclasses:
 ---
-
 # Basic Regular Expression
 

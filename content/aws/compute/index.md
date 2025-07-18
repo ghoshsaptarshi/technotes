@@ -1,5 +1,5 @@
 ---
-title: AWS Compute Services
+title: Compute Services
 description: 
 permalink: 
 aliases: 
@@ -20,3 +20,6 @@ EC2-->EC2CS[EC2 Container Services]
 Compute-->Fargate
 Compute--> Lambda
 ```
+
+## EC2
+Elastic Cloud Compute

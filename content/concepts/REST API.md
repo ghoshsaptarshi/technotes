@@ -1,10 +1,13 @@
 ---
-title: Amazon Web Services
+title: REST API
 description: 
 permalink: 
 aliases: 
 tags: 
 draft: true
-date: 2025-07-07
+date: 
 cssclasses:
 ---
+
+# REST API
+

@@ -1,10 +1,10 @@
 ---
-title: Amazon Web Services
+title: Glossary - O
 description: 
 permalink: 
 aliases: 
 tags: 
-draft: true
-date: 2025-07-07
+draft: false
+date: 2025-07-17
 cssclasses:
 ---

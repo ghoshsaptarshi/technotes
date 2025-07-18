@@ -1,5 +1,5 @@
 ---
-title: index
+title: TypeScript
 description: 
 permalink: 
 aliases: 

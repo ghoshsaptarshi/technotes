@@ -58,7 +58,7 @@ echo "Hello World"
 echo $PATH
 ```
 
-These statements can be comprised of commands from [[linux/coreutils/index]] package, installed programs or [[Functions#Functions|Bash Functions]]. Sometimes, installed can be comments also like -
+These statements can be comprised of commands from [[linux/coreutils/index]] package, installed programs or [[scripting/bash/Functions#Functions|Bash Functions]]. Sometimes, installed can be comments also like -
 
 ```bash
 # Hello World Bash script

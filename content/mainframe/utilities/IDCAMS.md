@@ -4,7 +4,7 @@ description: Integrated Data Cluster Access Method Services
 permalink: 
 aliases: 
 tags:
-  - zos
+  - zOS
 draft: false
 date: 
 cssclasses:

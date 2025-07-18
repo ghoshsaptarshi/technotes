@@ -4,7 +4,7 @@ description:
 permalink: 
 aliases: 
 tags:
-  - zos
+  - zOS
 draft: false
 date: 2025-07-04
 cssclasses:

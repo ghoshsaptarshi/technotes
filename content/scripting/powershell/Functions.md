@@ -1,9 +1,10 @@
 ---
-title: Amazon Web Services
+title: PowerShell Functions
 description: 
 permalink: 
 aliases: 
-tags: 
+tags:
+  - PowerShell
 draft: true
 date: 2025-07-07
 cssclasses:

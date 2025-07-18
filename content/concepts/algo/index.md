@@ -1,10 +1,10 @@
 ---
-title: Amazon Web Services
+title: Algorithms
 description: 
 permalink: 
 aliases: 
 tags: 
 draft: true
-date: 2025-07-07
+date: 2025-07-09
 cssclasses:
 ---

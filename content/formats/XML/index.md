@@ -5,7 +5,7 @@ permalink:
 aliases:
   - XML
 tags:
-  - xml
+  - XML
 draft: true
 date: 2025-07-06
 cssclasses:

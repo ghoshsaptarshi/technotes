@@ -48,14 +48,14 @@ In bash, `$foo` takes the value of `foo`, splits it at whitespace characters, an
 
 Bash **arrays** are indexed from 0 to (length-1). Zsh arrays are indexed from 1 to length. You can make 0-indexing the default with [`setopt ksh_arrays`](http://zsh.sourceforge.net/Doc/Release/Options.html#index-KSH_005fARRAYS). Zsh requires fewer braces (unless `ksh_arrays` is enabled). For example, suppose `a=(first second third "" last)`.
 
-|Functionality|Bash syntax|Idiomatic zsh syntax|Expansion|
-|---|---|---|---|
-|First element|`${a[0]}`|`$a[1]`|`first`|
-|Second element|`${a[1]}`|`$a[2]`|`second`|
-|Last element|`${a[${#a[@]}-1]}`|`$a[-1]`|`last`|
-|Length|`${#a[@]}`|`$#a`|`5`|
-|All the elements|`"${a[@]}"`|`"${a[@]}"` or `"${(@)a}"`|`first` `second` `third` (empty word) `last`|
-|All the non-empty elements||`$a`|`first` `second` `third` `last`|
+| Functionality              | Bash syntax        | Idiomatic zsh syntax       | Expansion                                    |
+| -------------------------- | ------------------ | -------------------------- | -------------------------------------------- |
+| First element              | `${a[0]}`          | `$a[1]`                    | `first`                                      |
+| Second element             | `${a[1]}`          | `$a[2]`                    | `second`                                     |
+| Last element               | `${a[${#a[@]}-1]}` | `$a[-1]`                   | `last`                                       |
+| Length                     | `${#a[@]}`         | `$#a`                      | `5`                                          |
+| All the elements           | `"${a[@]}"`        | `"${a[@]}"` or `"${(@)a}"` | `first` `second` `third` (empty word) `last` |
+| All the non-empty elements |                    | `$a`                       | `first` `second` `third` `last`              |
 
 Bash has extra **[wildcard patterns](https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html#Pattern-Matching)** such as `@(foo|bar)` to match `foo` or `bar`, which are only enabled with `shopt -s extglob`. In zsh, you can enable [these patterns](http://zsh.sourceforge.net/Doc/Release/Expansion.html#ksh_002dlike-Glob-Operators) with `setopt ksh_glob`, but there's also a simpler-to-type [native syntax](http://zsh.sourceforge.net/Doc/Release/Expansion.html#Glob-Operators) such as `(foo|bar)`, some of which requires `setopt extended_glob` (do put that in your `.zshrc`, and it's on by default in completion functions). Zsh has `**/` for recursive directory traversal (as does modern bash but not the bash 3.2 that ships with macOS).
 
@@ -107,11 +107,11 @@ Zsh has a number of little convenient features to **change directories**. Turn o
 
 To assign a value to a variable, you of course write `VARIABLE=VALUE`. To **edit the value of a variable** interactively, just run [`vared VARIABLE`](http://zsh.sourceforge.net/Doc/Release/Zsh-Line-Editor.html#index-vared).
 
-### Final advice
+### Final words
 
 Zsh comes with a configuration interface that supports a few of the most common settings, including canned recipes for things like case-insensitive completion. To (re)run this interface (the first line is not needed if you're using a configuration file that was edited by `zsh-newuser-install`):
 
-```bash
+```zsh
 autoload -U zsh-newuser-install
 zsh-newuser-install
 ```

@@ -1,10 +1,12 @@
 ---
-title: Amazon Web Services
+title: Bubble Sort
 description: 
 permalink: 
 aliases: 
-tags: 
+tags:
+  - algorithm
+  - sort
 draft: true
-date: 2025-07-07
+date: 2025-07-09
 cssclasses:
 ---

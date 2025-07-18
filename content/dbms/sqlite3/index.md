@@ -1,5 +1,5 @@
 ---
-title: index
+title: SQLite3
 description: 
 permalink: 
 aliases: 

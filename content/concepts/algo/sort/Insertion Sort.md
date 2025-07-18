@@ -1,11 +1,13 @@
 ---
-title: Glossary - W
+title: Insertion Sort
 description: 
 permalink: 
 aliases: 
 tags: 
 draft: true
-date: 2025-07-04
+date: 
 cssclasses:
 ---
+
+# Insertion Sort
 

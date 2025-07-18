@@ -4,7 +4,7 @@ description: IEBGENER is a copy utility for mainframes
 permalink: 
 aliases: 
 tags:
-  - zos
+  - zOS
 draft: false
 date: 
 cssclasses:

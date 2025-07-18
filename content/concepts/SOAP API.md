@@ -1,10 +1,13 @@
 ---
-title: Amazon Web Services
+title: SOAP API
 description: 
 permalink: 
 aliases: 
 tags: 
 draft: true
-date: 2025-07-07
+date: 
 cssclasses:
 ---
+
+# SOAP API
+

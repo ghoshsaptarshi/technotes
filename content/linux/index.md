@@ -1,5 +1,5 @@
 ---
-title: 
+title: Linux
 description: 
 permalink: 
 aliases: 

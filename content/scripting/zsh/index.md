@@ -3,7 +3,8 @@ title: zsh
 description: 
 permalink: 
 aliases: 
-tags: 
+tags:
+  - zsh
 draft: true
 date: 
 cssclasses:
