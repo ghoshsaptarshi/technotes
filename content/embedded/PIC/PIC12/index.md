@@ -1,15 +1,13 @@
 ---
-title: Selection Sort
+title: index
 description: 
 permalink: 
 aliases: 
-tags:
-  - algorithm
-  - sort
+tags: 
 draft: true
 date: 
 cssclasses:
 ---
 
-# Selection Sort
+# index
 

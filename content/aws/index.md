@@ -3,7 +3,8 @@ title: Amazon Web Services
 description: 
 permalink: 
 aliases: 
-tags: 
+tags:
+  - aws
 draft: true
 date: 2025-07-07
 cssclasses:

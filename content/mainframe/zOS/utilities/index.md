@@ -6,7 +6,7 @@ aliases:
 tags:
   - zOS
 draft: false
-date: 
+date: 2025-07-19
 cssclasses:
 ---
 Mainframe offers several utilities

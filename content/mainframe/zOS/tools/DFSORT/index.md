@@ -1,11 +1,12 @@
 ---
-title: zOS Connect Enterprise Edition
+title: DFSORT
 description: 
 permalink: 
 aliases: 
 tags:
   - zOS
-draft: false
-date: 2025-07-04
+  - sort
+draft: true
+date: 
 cssclasses:
 ---

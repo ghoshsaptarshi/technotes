@@ -3,7 +3,9 @@ title: Bash vs ZSH
 description: 
 permalink: 
 aliases: 
-tags: 
+tags:
+  - bash
+  - zsh
 draft: true
 date: 2025-07-05
 cssclasses:

@@ -5,7 +5,7 @@ permalink:
 aliases: 
 tags:
   - aws
-draft: false
+draft: true
 date: 2025-07-03
 cssclasses:
 ---
