@@ -1,10 +1,10 @@
 ---
-title: index
+title: Scripting
 description: 
 permalink: 
 aliases: 
 tags: 
-draft: true
-date: 
+draft: false
+date: 2025-07-31
 cssclasses:
 ---

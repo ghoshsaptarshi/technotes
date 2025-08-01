@@ -1,5 +1,5 @@
 ---
-title: zOS Connect Enterprise Edition
+title: zOS Connect EE
 description: 
 permalink: 
 aliases: 

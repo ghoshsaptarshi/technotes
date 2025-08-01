@@ -36,4 +36,4 @@ Get-Help -Name Get-Help
 - [PowerShell Gallery](https://www.powershellgallery.com/)
 - [PowerShell Module Browser](https://learn.microsoft.com/en-us/powershell/module/)
 
-[^1]: It has been extended to other platforms as well.
+[^1]: It has been extended to other platforms but remains dominant on Windows.

@@ -9,5 +9,22 @@ date:
 cssclasses:
 ---
 
-# index
 
+## Installation
+
+## macOS
+
+
+
+## Virtual Environment
+
+```
+python -m venv myenv
+source myenv/bin/activate
+pip install package_name
+```
+
+```
+deactivate
+```
+    

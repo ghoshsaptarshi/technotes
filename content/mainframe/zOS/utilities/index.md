@@ -10,11 +10,12 @@ date: 2025-07-19
 cssclasses:
 ---
 Mainframe offers several utilities
-## Utility List
 
-[[IDCAMS]]
+## Data set Utility programs
 
-[[IEBGENER]]
-
-[[IEFBR14]]
-
+| Utility      | Alias         | Description |
+| ------------ | ------------- | ----------- |
+| [[IEFBR14]]  | Dummy Utility |             |
+| [[IEBGENER]] |               |             |
+| [[IEBCOPY]]  |               |             |
+| [[IDCAMS]]   |               |             |

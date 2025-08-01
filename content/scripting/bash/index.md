@@ -1,26 +1,28 @@
 ---
-title: Introduction to bash
+title: Bash
 description: 
 permalink: 
 aliases: 
-tags: 
-draft: true
+tags:
+  - bash
+  - Linux
+draft: false
 date: 2025-06-30
 cssclasses:
 ---
-> bash is the GNU Project's shell. Bash stands for **B**ourne **A**gain **SH**ell. It is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard. It offers functional improvements over sh for both programming and interactive use. In addition, most sh scripts can be run by Bash without modification.
+> bash is the GNU Project's shell. Bash stands for **B**ourne **A**gain **SH**ell. It is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh). It offers functional improvements over sh for both programming and interactive use. In addition, most sh scripts can be run by Bash without modification.
 
 The improvements offered by bash include:
 - Command line editing
 - Unlimited size command history
 - Job Control
-- [[Glossary_S#Shell|#Shell]] Functions and Aliases
+- [[Glossary_S#Shell|Shell]] Functions and Aliases
 - Indexed [[Glossary_A#Array|#Array]] of unlimited size
 - [[Glossary_I#Integer|Integer]] arithmetic in any base from 2 to 64
 
 [Official Homepage](https://www.gnu.org/software/bash/)
 
-Since, bash is part of GNU's ecosystem, it is used in-conjunction with the tools/utilities of [[linux/coreutils/index]] package.
+Since, bash is part of GNU's ecosystem, it is used in-conjunction with the tools/utilities of [[linux/coreutils/index|GNU Core Utilities]] package.
 
 >[!info]
 >Anything that we can run normally on the command line can be put into a [[Glossary_S#Script|script]] and it will do exactly the same thing. Similarly, anything we put into a script can also be run normally on the command line and it will do exactly the same thing.
@@ -32,7 +34,7 @@ Since, bash is part of GNU's ecosystem, it is used in-conjunction with the tools
 echo "Hello World"
 echo $PATH
 ```
-##### Output
+##### Execution & Output
 ```bash
 user@host$ chmod +x script.sh
 user@host$ ./script.sh
@@ -49,7 +51,7 @@ A typical bash script starts with a shebang symbol along with the interpreter mo
 ![[Glossary - S#Shebang]]
 
 > [!warning]
-The shebang must be on the very first line of the file before any of the commands is written. There must also be no spaces before the # or between the ! and the path to the interpreter
+> The shebang must be on the very first line of the file before any of the commands is written. There must also be no spaces before the # or between the ! and the path to the interpreter
 
 After the shebang line, rest of the file contains the executable statements for the shell like below -
 
@@ -86,8 +88,9 @@ There could be several processes representing the same program running in memory
 
 At the terminal we have a bash process running in order to give us the Bash shell. If we start a script, it doesn't actually run in that process but instead starts a new process to run inside. This impacts the variables.
 
-
-## [[00 - Introduction to Bash|Introduction to Bash]]
+## Resources
+- [TLDP page on bash](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [Bash Scripting eBook](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 
 ## [[01 - Variables in Bash|Variables in Bash]]
 
