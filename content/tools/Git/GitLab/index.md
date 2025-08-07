@@ -3,11 +3,9 @@ title: index
 description: 
 permalink: 
 aliases: 
-tags: 
+tags:
+  - Git
 draft: true
 date: 
 cssclasses:
 ---
-
-# index
-

@@ -1,14 +1,14 @@
 ---
-title: zLinux
+title: GitLab CI/CD
 description: 
 permalink: 
 aliases: 
 tags:
-  - zLinux
-  - Mainframe
-  - Linux
+  - Git
 draft: true
 date: 
 cssclasses:
 ---
+
+# GitLab CI/CD
 

@@ -1,14 +1,10 @@
 ---
-title: zLinux
+title: diffutils
 description: 
 permalink: 
 aliases: 
-tags:
-  - zLinux
-  - Mainframe
-  - Linux
+tags: 
 draft: true
 date: 
 cssclasses:
 ---
-

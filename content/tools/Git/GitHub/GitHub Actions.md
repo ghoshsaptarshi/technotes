@@ -1,14 +1,12 @@
 ---
-title: zLinux
+title: GitHub Actions
 description: 
 permalink: 
 aliases: 
-tags:
-  - zLinux
-  - Mainframe
-  - Linux
+tags: 
 draft: true
 date: 
 cssclasses:
 ---
+# GitHub Actions
 
