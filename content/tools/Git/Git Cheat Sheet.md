@@ -31,9 +31,6 @@ git config --global core.excludesfile [file]
 
 ## Staging & Commit
 
-
-
-
 As a reminder -
 ![[tools/Git/index#Git Workflow]]
 
