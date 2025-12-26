@@ -1,10 +1,11 @@
 ---
-title: Glossary - D
+title: Untitled
 description:
 permalink:
 aliases:
 tags:
-draft: false
-date: 2025-07-04
+  - Docker
+draft: true
+date:
 cssclasses:
 ---

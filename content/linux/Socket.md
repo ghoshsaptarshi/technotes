@@ -1,10 +1,13 @@
 ---
-title: Glossary - D
+title: Socket
 description:
 permalink:
 aliases:
 tags:
-draft: false
-date: 2025-07-04
+draft: true
+date:
 cssclasses:
 ---
+
+# Untitled
+
