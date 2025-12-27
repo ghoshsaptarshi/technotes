@@ -1,5 +1,5 @@
 ---
-title: Welcome to Tech Notes
+title: Welcome to Rishi's Tech Notes
 date: 2025-07-20
 ---
 Hello and thanks for stopping by.

@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Rishi's Notes",
-    pageTitleSuffix: " - Rishi's Notes",
+    pageTitle: "Rishi's Tech Notes",
+    pageTitleSuffix: " - Rishi's Tech Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "ghoshsaptarshi.github.io",
+    baseUrl: "ghoshsaptarshi.github.io/technotes",
     ignorePatterns: ["private", "inbox", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
