@@ -1,11 +1,11 @@
 ---
-title: index
-description: 
-permalink: 
-aliases: 
+title: GitLab
+description:
+permalink:
+aliases:
 tags:
   - Git
 draft: true
-date: 
+date:
 cssclasses:
 ---

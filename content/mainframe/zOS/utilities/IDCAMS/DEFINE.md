@@ -1,14 +1,14 @@
 ---
-title: GitHub
+title: IDCAMS - DEFINE
 description:
 permalink:
 aliases:
 tags:
-  - Git
+  - zOS
 draft: true
 date:
 cssclasses:
 ---
 
-# index
+# DEFINE
 

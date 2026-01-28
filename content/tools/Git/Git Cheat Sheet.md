@@ -1,11 +1,11 @@
 ---
 title: Git Cheat Sheet
-description: 
-permalink: 
-aliases: 
+description:
+permalink:
+aliases:
 tags:
   - Git
-draft: true
+draft: false
 date: 2025-08-01
 cssclasses:
 ---

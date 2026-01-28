@@ -1,11 +1,12 @@
 ---
 title: GitHub Actions
-description: 
-permalink: 
-aliases: 
-tags: 
+description:
+permalink:
+aliases:
+tags:
+  - Git
 draft: true
-date: 
+date:
 cssclasses:
 ---
 # GitHub Actions

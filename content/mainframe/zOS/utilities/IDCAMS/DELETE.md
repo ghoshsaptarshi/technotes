@@ -1,10 +1,11 @@
 ---
-title: Apple Automator
+title: Untitled
 description:
 permalink:
 aliases:
 tags:
-draft: false
-date: 2025-12-27
+  - zOS
+draft: true
+date:
 cssclasses:
 ---

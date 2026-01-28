@@ -13,9 +13,9 @@ Mainframe offers several utilities
 
 ## Data set Utility programs
 
-| Utility      | Alias         | Description |
-| ------------ | ------------- | ----------- |
-| [[IEFBR14]]  | Dummy Utility |             |
-| [[IEBGENER]] |               |             |
-| [[IEBCOPY]]  |               |             |
-| [[IDCAMS]]   |               |             |
+| Utility                                          | Alias         | Description |
+| ------------------------------------------------ | ------------- | ----------- |
+| [[IEFBR14]]                                      | Dummy Utility |             |
+| [[IEBGENER]]                                     |               |             |
+| [[IEBCOPY]]                                      |               |             |
+| [[mainframe/zOS/utilities/IDCAMS/index\|IDCAMS]] |               |             |

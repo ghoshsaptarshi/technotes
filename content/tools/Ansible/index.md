@@ -1,10 +1,10 @@
 ---
-title: Apple Automator
+title: Ansible
 description:
 permalink:
 aliases:
 tags:
-draft: false
-date: 2025-12-27
+draft: true
+date:
 cssclasses:
 ---
